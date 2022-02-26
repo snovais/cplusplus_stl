@@ -1,1 +1,1 @@
-# cplusplus_stl
+# Exemplo de um simples jogo de forca para introdução a linguagem.
